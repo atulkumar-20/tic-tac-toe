@@ -2,6 +2,9 @@
 ![Screenshot 2024-05-30 090425](https://github.com/atulkumar-20/tic-tac-toe/assets/170754927/99a263e6-3c1c-4a47-a912-bb7a9ea486be)
 
 
+live link:-  https://atulkumar-20.github.io/tic-tac-toe/
+
+
 Description:-
 
 -->A simple and interactive Tic Tac Toe game built with JavaScript. 
